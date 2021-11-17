@@ -1,9 +1,4 @@
-# pytorch-deeplab-xception
-
-**Update on 2018/12/06. Provide model trained on VOC and SBD datasets.**  
-
-**Update on 2018/11/24. Release newest version code, which fix some previous issues and also add support for new backbones and multi-gpu training. For previous code, please see in `previous` branch**  
-
+Due to the mine confidentiality agreement, the open-pit mine data set is not provided in this code. Only a few sample images are provided. Mine practitioners can use drones to shoot remote sensing images of open-pit mines that need to be modeled.There are many parameters in the code that need to be adjusted according to the image size and the experimental GPU. You can adjust the relevant parameters according to your computer configuration
 ### TODO
 - [x] Support different backbones
 - [x] Support VOC, SBD, Cityscapes and COCO datasets
